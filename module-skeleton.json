@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-business-process-management-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-business-process-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-business-process-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/business-process-management.md",
+  "presentationPlan": "projects/crm/nuxt/business-process-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
